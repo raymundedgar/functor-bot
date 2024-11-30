@@ -1,7 +1,7 @@
 # functor-bot
 
 1. Update system and install pip
-  ```bash
+  ```bash```
   sudo apt update && sudo apt install python3-pip -y
 3. Install *request* module
    ```pip3 install requests```
