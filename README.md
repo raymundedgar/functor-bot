@@ -1,8 +1,7 @@
 # functor-bot
 
 1. Update system and install pip
-  ```bash```
-  sudo apt update && sudo apt install python3-pip -y
+  ```sudo apt update && sudo apt install python3-pip -y```
 3. Install *request* module
    ```pip3 install requests```
 4. Get bearer token: Chrome Dev Console > Network > Fetch/XHR > Response Headers > Authorization
